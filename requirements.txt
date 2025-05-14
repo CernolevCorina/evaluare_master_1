@@ -1,0 +1,4 @@
+Creează un nou repositoriu GitHub numit evaluare_master_1. Clonează-l local și
+configurează global Git (nume și e-mail). Creează fișierele: README.md, main.py,
+requirements.txt și intro.txt cu conținut relevant. Creează o ramură develop, comite fișierele
+acolo și deschide un Pull Request pentru integrarea în main.
